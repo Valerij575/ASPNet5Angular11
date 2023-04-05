@@ -1,16 +1,16 @@
-# ASPNet5Angular11
+# ASPNet7 and Angular14
 ## Setting up the project
 Assuming that we have already installed Visual Studio 2019 and Node.js, here's what we need
 to do:
-1. Download and install the .NET 5 SDK
+1. Download and install the .NET 7 SDK
 2. Check that the .NET CLI will use that SDK version
 3. Create a new .NET and Angular project
 4. Check out the newly created project within Visual Studio
 5. Update all the packages and libraries to our chosen versions
 
-## Installing the .NET 5 SDK
-The .NET 5 SDK can be downloaded from either the official Microsoft URL (https://dotnet.microsoft.com/download/dotnet/5.0) or from the GitHub official release page 
-(https://github.com/dotnet/core/tree/master/release-notes/5.0).
+## Installing the .NET 7 SDK
+The .NET 7 SDK can be downloaded from either the official Microsoft URL (https://dotnet.microsoft.com/download/dotnet/7.0) or from the GitHub official release page 
+(https://github.com/dotnet/core/tree/master/release-notes/7.0).
 
 ## Checking the SDK version
 > dotnet --help
